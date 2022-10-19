@@ -1,5 +1,4 @@
 # CodeGraph4CCDetector
 
-run main.py for training
-
-run main_test_fast.py for parallel testing
+Step1: Execute the following command to install dependencies.
+				$pip install -r requriements.txt$
